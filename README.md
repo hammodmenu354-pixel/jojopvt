@@ -1,1 +1,1 @@
-# status patch modpack jojo
+# status patch modpack

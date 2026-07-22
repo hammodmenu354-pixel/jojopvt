@@ -1,2 +1,2 @@
-MAINTENANCE=1
-MESSAGE=update dulu cuy gta nya
+MAINTENANCE=0
+MESSAGE=
